@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleBankSystemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-28T18:16:07" hostname="DESKTOP-I1O0VPU" time="0.641">
+  <properties/>
+  <testcase name="start" classname="SimpleBankSystemTest" time="0.641"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 2?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 3?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 4?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 5?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000001138068085
+Your card PIN:
+4351
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000006031473837
+Your card PIN:
+0958
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000000652008030
+Your card PIN:
+9017
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000003134051388
+Your card PIN:
+7659
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000000786534307
+Your card PIN:
+1570
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+4000001138068085
+4000006031473837
+4000000652008030
+4000003134051388
+4000000786534307
+?[1;31m
+Start test 6?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000003253023473
+Your card PIN:
+5402
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000003253023473
+Enter your PIN:
+> 5402
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 7?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000005753216440
+Your card PIN:
+0298
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000005753216440
+Enter your PIN:
+> 3760
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 8?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000008587756151
+Your card PIN:
+6790
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 400000321714886
+Enter your PIN:
+> 6790
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 9?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000006380228535
+Your card PIN:
+0654
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000006380228535
+Enter your PIN:
+> 0654
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000001550143515
+Your card PIN:
+0129
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 10?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000002804015244
+Your card PIN:
+5748
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000002804015244
+Enter your PIN:
+> 5748
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income:
+> 10000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000002804015244
+Enter your PIN:
+> 5748
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income:
+> 15000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 11?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000007014844382
+Your card PIN:
+9830
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000001788516086
+Your card PIN:
+8623
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000001788516086
+Enter your PIN:
+> 8623
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer 
+Enter card number:
+> 2000007269641764
+Probably you made a mistake in the card number. Please try again!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer 
+Enter card number:
+> 2000007269641768
+Such a card does not exist.
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer 
+Enter card number:
+> 4000007014844382
+Enter how much money you want to transfer:
+> 100000
+Not enough money!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income:
+> 20000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer 
+Enter card number:
+> 4000007014844382
+Enter how much money you want to transfer:
+> 10000
+Success!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+?[1;31m
+Start test 12?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+Your card has been created 
+Your card number:
+4000005510003685
+Your card PIN:
+9275
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+Enter your card number:
+> 4000005510003685
+Enter your PIN:
+> 9275
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 4
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+Bye!
+]]></system-out>
+  <system-err><![CDATA[java.sql.SQLException: query does not return ResultSet
+	at org.sqlite.jdbc3.JDBC3Statement.executeQuery(JDBC3Statement.java:85)
+	at banking.Bank.deleteAccount(Bank.java:251)
+	at banking.Bank.showAccountUI(Bank.java:78)
+	at banking.Bank.checkAndLogin(Bank.java:162)
+	at banking.Bank.logIntoAccount(Bank.java:113)
+	at banking.Bank.showBankUI(Bank.java:44)
+	at banking.Bank.createBank(Bank.java:27)
+	at banking.Main.main(Main.java:7)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.invokeMain(MainMethodExecutor.java:173)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.lambda$launch$0(MainMethodExecutor.java:200)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+]]></system-err>
+</testsuite>
